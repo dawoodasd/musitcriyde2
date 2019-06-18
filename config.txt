@@ -1,0 +1,6 @@
+owner=413660639668731914
+prefix=3
+game=3play|#TheH1TS
+stayinchannel=false
+songinstatus=false
+token=NTgzMDY2MTEyMDYxNzM0OTE1.XO3tBg.sWyzijeN8cKwcvXn_nfTgI6N9eE
